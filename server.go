@@ -1,4 +1,4 @@
-package main
+package mrpc
 
 import (
 	"encoding/json"
